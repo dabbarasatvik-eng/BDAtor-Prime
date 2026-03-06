@@ -1,0 +1,225 @@
+!DOCTYPE html
+html
+
+head
+
+    titleBDAtor Primetitle
+
+    meta name=viewport content=width=device-width, initial-scale=1
+
+    style
+        body {
+            font-family Arial;
+            margin 0;
+            background #f2f2f2;
+        }
+
+        header {
+            background #1e3a5f;
+            color white;
+            padding 20px;
+            text-align center;
+            font-size 28px;
+            font-weight bold;
+        }
+
+        nav {
+            background #16324f;
+            padding 10px;
+            text-align center;
+        }
+
+        nav a {
+            color white;
+            margin 10px;
+            text-decoration none;
+            font-size 18px;
+        }
+
+        .hero {
+            padding 60px;
+            text-align center;
+            background white;
+        }
+
+        .hero h1 {
+            font-size 40px;
+        }
+
+        .container {
+            width 90%;
+            margin auto;
+            padding 30px;
+        }
+
+        .section {
+            background white;
+            padding 30px;
+            margin-top 20px;
+            border-radius 8px;
+        }
+
+        .subject {
+            padding 10px;
+            font-size 18px;
+        }
+
+        form input,
+        form select {
+            width 100%;
+            padding 10px;
+            margin-top 10px;
+        }
+
+        button {
+            margin-top 15px;
+            padding 12px;
+            background #ff9800;
+            border none;
+            color white;
+            font-size 16px;
+            cursor pointer;
+        }
+
+        footer {
+            background #1e3a5f;
+            color white;
+            text-align center;
+            padding 20px;
+            margin-top 40px;
+        }
+
+        .whatsapp {
+            position fixed;
+            bottom 20px;
+            right 20px;
+            background #25D366;
+            color white;
+            padding 15px;
+            border-radius 50px;
+            font-size 18px;
+            text-decoration none;
+        }
+    style
+
+head
+
+body
+
+    header
+        BDAtor Prime
+    header
+
+    nav
+
+        a href=#Homea
+        a href=#subjectsSubjectsa
+        a href=#registerRegistera
+        a href=#demoFree Demoa
+
+    nav
+
+    div class=hero
+
+        h1Online Tutoring for USA Studentsh1
+
+        pOne-on-One Personalized Learningp
+
+        pFlexible Timings • Affordable Fees • Free Demop
+
+    div
+
+    div class=container
+
+        div id=subjects class=section
+
+            h2Subjects We Teachh2
+
+            div class=subject📘 Mathematicsdiv
+            div class=subject🔬 Sciencediv
+            div class=subject📖 Englishdiv
+            div class=subject🌎 Social Studiesdiv
+
+        div
+
+        div id=register class=section
+
+            h2Student Registrationh2
+
+            form
+
+                input type=text placeholder=Student Name required
+
+                input type=text placeholder=Parent Name
+
+                input type=email placeholder=Email
+
+                input type=tel placeholder=Phone Number
+
+                select
+
+                    optionSelect Subjectoption
+                    optionMathematicsoption
+                    optionScienceoption
+                    optionEnglishoption
+                    optionSocial Studiesoption
+
+                select
+
+                buttonRegisterbutton
+
+            form
+
+        div
+
+        div id=demo class=section
+
+            h2Book Free Demo Classh2
+
+            form
+
+                input type=text placeholder=Student Name
+
+                input type=email placeholder=Email
+
+                input type=tel placeholder=Phone Number
+
+                select
+
+                    optionSelect Subjectoption
+                    optionMathematicsoption
+                    optionScienceoption
+                    optionEnglishoption
+                    optionSocial Studiesoption
+
+                select
+
+                input type=date
+
+                buttonBook Demobutton
+
+            form
+
+        div
+
+    div
+
+    footer
+
+        pFounder Adithya Boyapatip
+
+        pWhatsApp +91 7989739509p
+
+        p© 2026 BDAtor Primep
+
+    footer
+
+    a class=whatsapp href=httpswa.me917989739509
+
+        Chat on WhatsApp
+
+    a
+
+body
+
+html
